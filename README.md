@@ -6,7 +6,11 @@ the subscribe button is special, check it out!
 
 # Credits :
 the odin project for giving the idea
+my cat, for being one of the primary pictures used
+whoever came to see this website, thank you as well!
 
 # Image Sources :
 
 dumbell - iStock
+All Bill Murray Pictures - FillMurray.com
+All Nicholas Cage Pictures - PlaceCage.com
