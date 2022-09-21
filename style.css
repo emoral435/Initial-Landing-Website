@@ -80,3 +80,22 @@ a {
     background-color: #1F2937
 }
 
+.information.class {
+    font-size: 2.25rem;
+    font-weight: 900;
+    color: #1F2937;
+    align-items: center;
+}
+
+.box {
+    
+}
+
+.info-pic {
+    display: flex;
+    justify-content: center;
+}
+.information {
+    display:flex;
+    flex-direction: column;
+}
