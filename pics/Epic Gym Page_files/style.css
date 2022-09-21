@@ -4,8 +4,6 @@ body {
     flex-direction: column;
 }
 
-/* here, we should add something that has all the display flexs and other more common things that have been reused over and over to save space */
-
 ul {
     list-style: none;
     font-size: 1.1rem;
@@ -37,9 +35,13 @@ a {
     padding-top: 4px;
 }
 
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .welcomeimage img {
     width: 20rem;
-    margin: 1rem 0;
 }
 
 .welcome {
@@ -47,30 +49,17 @@ a {
     justify-content: space-around;
 }
 
-.subscribe {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    flex-basis: 40%;
-}
-
 .longtext {
-    font-size: 1.1rem;
-    color: #E5E7EB;
-}
-
-#button {
-    border-radius: 12px;
-    background-color: #3882F6;
-    padding: .3rem 2rem;
-    border: 1px;
-    width: 10rem;
+    width: 35rem;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .website {
     font-size: 3rem;
     font-weight: 900;
     color: #F9FAF8;
+    margin: 0 5rem;
 }
 
 .landingpage {

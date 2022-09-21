@@ -14,3 +14,4 @@ whoever came to see this website, thank you as well!
 dumbell - iStock
 All Bill Murray Pictures - FillMurray.com
 All Nicholas Cage Pictures - PlaceCage.com
+cat pictures - my cat, whose name is unknown as of writing this 
