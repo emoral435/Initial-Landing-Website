@@ -13,7 +13,6 @@ ul {
     display: flex;
     justify-content: space-evenly;
     gap: 1rem;
-    margin-right: 6rem;
 }
 
 li {
@@ -26,6 +25,12 @@ a {
     color: #E5E7Eb
 }
 
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin: 0 3.5rem 0 3.5rem;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -34,9 +39,7 @@ a {
 
 .topimage img {
     width: 5rem;
-    margin-left: 6rem;
-    padding-top: 4px;
-    justify-content: flex-start;
+    padding-top: 1rem;
 }
 
 .welcomeimage img {
@@ -47,7 +50,7 @@ a {
 
 .welcome {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .subscribe {
