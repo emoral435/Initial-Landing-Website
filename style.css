@@ -88,17 +88,30 @@ a {
     font-weight: 900;
     color: #1F2937;
     align-items: center;
+    justify-content: center;
+    margin: auto;
 }
 
 .box {
-    
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    border-radius: 1rem;
+    border: 4px solid #3882F6;
 }
 
 .info-pic {
     display: flex;
     justify-content: center;
+    gap: 2.5rem;
 }
+
+.info-text {
+    width: 10rem;
+}
+
 .information {
     display:flex;
     flex-direction: column;
+    margin: 4rem 0 8rem 0;
 }
