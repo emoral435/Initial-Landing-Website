@@ -115,3 +115,39 @@ a {
     flex-direction: column;
     margin: 4rem 0 8rem 0;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7Eb;
+    padding: 8rem 16rem;
+}
+
+.words {
+    font-size: 2.1rem;
+    font-weight: 100;
+}
+
+.person {
+    display: flex;
+    font-size: 1rem;
+    font-weight: 800;
+    justify-content: flex-end;
+}
+
+.signup {
+    display: flex;
+    background-color: #3882F6;
+    margin: 6rem 10rem;
+    padding: 2rem;
+    border-radius: 12px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#sidebutton {
+    border: 1rem solid white;
+    background-color: #3882F6;
+    color: white;
+}
